@@ -15,11 +15,11 @@
       </div>
    </div>
       <div>
-  <a href="https://github.com/thiagopcdev" style="display: flex;">
-     <img height="162em" src="https://github-readme-stats.vercel.app/api?username=alyssonsene&count_private=true&show_icons=true&theme=react">
-     <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsene&layout=compact&langs_count=7&theme=react">
- </a>
-</div>
+        <a href="https://github.com/alyssonsene" style="display: flex; justify-content: center">
+           <img height="162em" src="https://github-readme-stats.vercel.app/api?username=alyssonsene&count_private=true&show_icons=true&theme=react">
+           <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsene&layout=compact&langs_count=7&theme=react">
+       </a>
+   </div>
       <div style="display: inline-block"><br>
          <img align="center" alt="Alysson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" alt="Alysson-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,6 +28,8 @@
          <img align="center" alt="Alysson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
          <img align="center" alt="Alysson-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
          <img align="center" alt="Alysson-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+         <img align="center" alt="Alysson-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+         <img align="center" alt="Alysson-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       </div>
    </div>
 
