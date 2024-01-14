@@ -14,9 +14,12 @@
          <br>
       </div>
    </div>
-      <div style="display: inline-block">
-         <img height="180em" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alyssonsene&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      </div>
+      <div>
+  <a href="https://github.com/thiagopcdev" style="display: flex;">
+     <img height="162em" src="https://github-readme-stats.vercel.app/api?username=alyssonsene&count_private=true&show_icons=true&theme=react">
+     <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsene&layout=compact&langs_count=7&theme=react">
+ </a>
+</div>
       <div style="display: inline-block"><br>
          <img align="center" alt="Alysson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" alt="Alysson-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
