@@ -32,12 +32,6 @@
          <img align="center" alt="Alysson-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       </div>
    </div>
-<div>
- 
-##
-  ![Snake animation](https://github.com/alyssonsene/alyssonsene/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 <div align="center">
    <br>
    <h3>🤝 CONTATOS 🤝</h3> 
