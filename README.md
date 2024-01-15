@@ -15,7 +15,6 @@
       </div>
    </div>
       <div>
-        <a href="https://github.com/alyssonsene" style="display: flex;">
            <img height="162em" src="https://github-readme-stats.vercel.app/api?username=alyssonsene&count_private=true&show_icons=true&theme=react">
            <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsene&layout=compact&theme=react">
            
