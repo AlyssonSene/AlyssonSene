@@ -16,7 +16,7 @@
    </div>
       <div>
            <img height="162em" src="https://github-readme-stats.vercel.app/api?username=alyssonsene&count_private=true&show_icons=true&theme=react">
-           <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsene&layout=compact&theme=react">
+           <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsene&layout=compact&theme=react)">
    </div>
       <div style="display: flex; justify-content: center"><br>
          <img align="center" alt="Alysson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
