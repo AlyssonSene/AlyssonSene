@@ -3,8 +3,6 @@
       <h1># Welcome-to-my-github</h1>
       <h2>Olá! Meu nome é Alysson Sene ✌️</h2>
       <div align="left">
-         Iniciei minha carreira de desenvolvedor web estudando na <a href="https://www.betrybe.com/?utm_source=trybe.com.br">Trybe</a> 
-         <br>
          <br>
          🔎  Sou <i>Programador </i> e estou disponível para ajudar a desenvolver seu projeto!
          <br>
