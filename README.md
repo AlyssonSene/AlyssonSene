@@ -7,7 +7,7 @@
          🔎  Sou <i>Programador </i> e estou disponível para ajudar a desenvolver seu projeto!
          <br>
          <br>
-         📩 Email: alyssonsene@outlook.com 
+         📩 Email: alysson.sene@outlook.com 
          <br>
          <br>
       </div>
