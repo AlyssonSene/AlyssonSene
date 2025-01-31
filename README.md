@@ -1,6 +1,6 @@
 <div id="divMain" style="text-align:center; margin:0 auto;">
    <div style="display: inline-block;">
-      <h1># Welcome-to-my-github</h1>
+      <h1># Welcome to my github</h1>
       <h2>Olá! Meu nome é Alysson Sene ✌️</h2>
       <div align="left">
          <br>
